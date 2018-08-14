@@ -19,3 +19,5 @@ npm run build
 ```
 npm run lint
 ```
+
+https://vuex.vuejs.org/kr/guide/
